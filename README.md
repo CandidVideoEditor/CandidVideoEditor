@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m AGORA, Welcome to my GitHub Profile
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Karunada King's/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Candidvideoeditor/&title=Profile%20Views)
 # My Social Profiles
 <p align="center">
 <a href="https://t.me/karunadakingskingdom"><img alt="Telegram" src="https://img.shields.io/badge/Candidvideoeditor-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
